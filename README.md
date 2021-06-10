@@ -1,4 +1,4 @@
-# Hi, I'm Ayush Rameja 👋
+# 👋
 
 <img src="https://github.com/RamejaAyush/RamejaAyush/blob/master/Profile.png?raw=true">
 
