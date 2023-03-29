@@ -1,6 +1,6 @@
 # 👋
 
-![About ME](https://github.com/RamejaAyush/RamejaAyush/blob/master/Profile.png?raw=true)
+![About ME]([https://github.com/RamejaAyush/RamejaAyush/blob/master/Profile.png?raw=true](https://github.com/RamejaAyush/RamejaAyush/blob/master/Profile%20Banner.png?raw=true))
 
 I'm a Full Stack Developer who is passionate about web designs, web animations and creative work. Technologies I enjoy working with JavaScript Frameworks like React & Angular and Node.js.
 
