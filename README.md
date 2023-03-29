@@ -2,7 +2,7 @@
 
 ![About ME](https://github.com/RamejaAyush/RamejaAyush/blob/master/Profile.png?raw=true)
 
-I'm a Software Engineer who is passionate about web designs, web animations and creative work. Technologies I enjoy working with Node.js, JavaScript and Python.
+I'm a Full Stack Developer who is passionate about web designs, web animations and creative work. Technologies I enjoy working with JavaScript Frameworks like React & Angular and Node.js.
 
 ## Find me here 🌎:
 
